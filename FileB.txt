@@ -1,2 +1,3 @@
 This is file B
 another file changein FileB
+additional version
